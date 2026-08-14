@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Eyüpcan Biçer
+👋 Hi, I'm Eyüpcan Biçer
 
-### Flutter & Mobile App Developer
+Flutter & Mobile App Developer
 
 I'm a mobile application developer focused on building modern and user-friendly applications with Flutter and Dart.
 
@@ -8,38 +8,60 @@ I'm continuously improving my skills by working on real-world projects and explo
 
 ---
 
-## 🚀 Projects
+🚀 Featured Projects
 
-### 🏋️ AI FitCoach
+🏋️ AI FitCoach
 
-A fitness-focused mobile application built with Flutter.
+A fitness-focused mobile application developed with Flutter and Dart.
 
-**Features & Technologies:**
+Features:
+
+- Step counting
+- Personalized exercise recommendations
+- AI-powered fitness suggestions
+
+Technologies:
+
 - Flutter & Dart
+- Pedometer
 - Google Generative AI
-- Personalized workout recommendations
-- Step tracking with Pedometer
 - Firebase
 - Permission Handler
 - Shared Preferences
 
+📱 "View on Google Play" (https://play.google.com/store/apps/details?id=com.ornek.AIFitnessCoach)
+
+«Note: The AI service/API used in this project is no longer active, so some AI-powered features may currently be unavailable.»
+
 ---
 
-### 🎬 Flutter Movie App
+🎬 Flutter Movie App
 
-A movie listing application developed with Flutter and the TMDB API.
+A movie-focused mobile application developed with Flutter and Dart using the TMDB API.
 
-**Features & Technologies:**
+Features:
+
+- Movie listing
+- REST API integration
+- Responsive user interface
+- JSON data processing
+
+Technologies:
+
 - Flutter & Dart
-- TMDB REST API
+- TMDB API
+- REST API
 - JSON Parsing
 - Responsive UI
-- Material Design
-- Lottie Animations
+- Lottie
+
+📱 "View on Google Play" (https://play.google.com/store/apps/details?id=com.deneme.movie_app)
+
+«Note: The TMDB API access used by this project has expired, so movie data may no longer be available.»
 
 ---
 
-## 🛠️ Technical Skills
+🛠️ Technical Skills
 
 - Flutter & Dart
 - Android & Cross-Platform Development
@@ -59,10 +81,10 @@ A movie listing application developed with Flutter and the TMDB API.
 
 ---
 
-## 📫 Contact
+📫 Contact
 
-- GitHub: [@Ecan06](https://github.com/Ecan06)
-- LinkedIn: [Eyüpcan Biçer](https://www.linkedin.com/in/ey%C3%BCpcan-bi%C3%A7er-b319a7274/)
+- GitHub: "@Ecan06" (https://github.com/Ecan06)
+- LinkedIn: "Eyüpcan Biçer" (https://www.linkedin.com/in/ey%C3%BCpcan-bi%C3%A7er-b319a7274/)
 
 ---
 
